@@ -1,0 +1,4 @@
+%{
+  "redix": {:hex, :redix, "1.1.2", "f4905f79ddee0bb97be0f6ab38628426b81783fe8276232a1b058a4f398a8886", [:mix], [{:castore, "~> 0.1.0", [hex: :castore, repo: "hexpm", optional: true]}, {:telemetry, "~> 0.4.0", [hex: :telemetry, repo: "hexpm", optional: false]}], "hexpm", "0e8454a8afe15f9c1606c2b1355aa373e722ee0ade6528db977428d9e1b71c5b"},
+  "telemetry": {:hex, :telemetry, "0.4.3", "a06428a514bdbc63293cd9a6263aad00ddeb66f608163bdec7c8995784080818", [:rebar3], [], "hexpm", "eb72b8365ffda5bed68a620d1da88525e326cb82a75ee61354fc24b844768041"},
+}
